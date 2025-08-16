@@ -13,7 +13,7 @@ RULES = """• Speak English
 • Spam-related uses lead to ban
 • Read https://docs.telethon.dev before asking things here"""
 
-CHANNEL = tl.types.PeerChannel(2929947869)
+CHANNEL = tl.types.PeerChannel(1109500936)
 
 QUIZ_PREFIX = "📚 "
 
